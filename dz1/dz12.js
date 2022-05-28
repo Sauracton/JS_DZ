@@ -1,4 +1,4 @@
 'use strict';
-let name = "Василий";
-let admin = name;
+let name1 = "Василий";
+let admin = name1;
 alert(admin);
