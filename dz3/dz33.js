@@ -1,3 +1,5 @@
+'use strict'
+console.log('Задание 3')
 const products = [
     {
         id: 3,
@@ -16,3 +18,5 @@ const products = [
 products.forEach(item => {
     item.price = item.price * 0.85;
 });
+
+console.log(products);

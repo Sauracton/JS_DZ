@@ -1,3 +1,5 @@
+'use strict'
+console.log('Задание 2')
 const post = {
     author: "John", //вывести этот текст
     postId: 23,
